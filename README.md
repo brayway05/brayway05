@@ -1,10 +1,31 @@
-# Project-Links
-Links to other personal projects that aren't supported by Github
+# Projects
 
-**Nintendo 64 fake cartridge detection model**
+### Nintendo 64 fake cartridge detection model
 - Uses the image classifier from `vit-base-patch16-224`
 - Model is trained only on 20 or so images.
 - Can use API for CURL, Python, or JS on huggingface website
 https://huggingface.co/Braywayc/autotrain-n-64-image-classifier-99356147309
 
 ### [CS 450 - Computer Vision - Projects](Computer-Vision-Projects.md)
+Computer Vision class at BYU where we learned about the basics of the first types image processing algorithms before deep learning took over the computer vision field.
+- Image preprocessing
+- Edge, corner, and shape detection
+- Image segmentation
+- Image stitching
+- Homographies and warp transformations
+- Object detection and classifcation pre-CNN's
+- CNN's
+
+### CS 474 - Deep learning - Projects
+- CNNs
+- U-Nets
+- Style Transfer
+- RNNs
+- Transformers
+- Foundation Models and transfer learning
+- GANs/Probabilistic Generative Models
+- Stable Diffusion
+- ResNets
+
+### Marketing Data Science Internship - Projects
+- The code I wrote is propietary but I will show as many grahps, plots, and visualizations as I can.
