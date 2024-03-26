@@ -2,16 +2,16 @@
 ### Project 1: Edge Detection (colab)
 - using different algorithms like Laplacian Filter and Hough Transform to detect and locate circles of different sizes in a busy image.
   
-<img width="737" alt="Screenshot 2024-03-25 at 5 27 53 PM" src="https://github.com/brayway05/CS-450/assets/61756717/9105fa20-3836-475b-857f-9ccc13c80ee0">
-<img width="437" alt="Screenshot 2024-03-25 at 5 29 14 PM" src="https://github.com/brayway05/CS-450/assets/61756717/02773416-4e28-4044-a297-7ea9dbcbfe34">
+![image](https://github.com/brayway05/Project-Links/assets/61756717/c83aee94-8a26-4be7-b4ed-719b8e2be377)
+<img width="435" alt="Screenshot 2024-03-25 at 7 54 32 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/0a4dd449-96fe-459d-9324-ff3700495bfc">
 
 ^ Edge Detection on image
 
-<img width="430" alt="Screenshot 2024-03-25 at 5 29 39 PM" src="https://github.com/brayway05/CS-450/assets/61756717/3a9e4ec3-ce93-4575-b673-9e92a3d01ef3">
+<img width="425" alt="Screenshot 2024-03-25 at 7 54 47 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/2b881716-817a-490d-8569-4a9d1411540f">
 
 ^ Hough Transform Algorithm
 
-<img width="433" alt="Screenshot 2024-03-25 at 5 30 11 PM" src="https://github.com/brayway05/CS-450/assets/61756717/61ae6412-a3ea-4277-9a99-bf3272596833">
+<img width="423" alt="Screenshot 2024-03-25 at 7 55 00 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/0994653b-3727-4fb1-a5c0-9474ab6d6129">
 
 ^ Detected Cirlces with specified radius
    
@@ -20,9 +20,8 @@
 - use boundary and region terms for source and sink nodes of the graph.
 - use probability density functions and negative log-likelihood for edge weight calculation.
 
-<img width="985" alt="Screenshot 2024-03-25 at 5 34 06 PM" src="https://github.com/brayway05/CS-450/assets/61756717/e47095bf-2acf-41c9-a1f2-1ddbfcd09b1e">
-<img width="984" alt="Screenshot 2024-03-25 at 5 34 28 PM" src="https://github.com/brayway05/CS-450/assets/61756717/8bfabc17-92d7-489e-8284-1fbde4742715">
-
+<img width="982" alt="Screenshot 2024-03-25 at 7 55 20 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/ad4fcb0f-77ae-46c4-b2ed-2cd6d63cef9d">
+<img width="979" alt="Screenshot 2024-03-25 at 7 55 37 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/57a112dc-92b2-4d87-9952-be35897abb15">
 
 ### Project 3: Panoramic Mosaicing (VS-code)
 - using SIFT algorithm for corner detectign and feature descriptor matching (opencv).
@@ -30,15 +29,15 @@
 - finding best homographies by implementing the RANSAC algorithm.
 - stiching images manually using translation matrices taken from the homographies themselves and extracting the changes in x and y of the warped image.
 
-<img width="1361" alt="Screenshot 2024-03-25 at 5 35 53 PM" src="https://github.com/brayway05/CS-450/assets/61756717/a71d53b8-de94-44c3-bbca-dee23c547eb3">
+<img width="1005" alt="Screenshot 2024-03-25 at 7 55 53 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/1c7f92e6-836f-4671-b946-c4b3320f64ad">
 
 ^ Original images
 
-<img width="787" alt="Screenshot 2024-03-25 at 5 36 33 PM" src="https://github.com/brayway05/CS-450/assets/61756717/56da11e0-fb99-483b-99a8-67c354537852">
+<img width="783" alt="Screenshot 2024-03-25 at 7 56 06 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/defad538-ca4e-4995-b514-a16b00dcef20">
 
 ^ SIFT descriptors
 
-<img width="553" alt="Screenshot 2024-03-25 at 5 36 54 PM" src="https://github.com/brayway05/CS-450/assets/61756717/965a44b9-4186-40bc-a87e-24939e43e04e">
+<img width="495" alt="Screenshot 2024-03-25 at 7 57 01 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/45c3263c-b27a-4154-9b13-65f3163bc9e6">
 
 ^ Matched descriptors
 
@@ -52,18 +51,18 @@
 - discretize given a set of possible QR code sizes (using timing information encoded into QR code).
 - decode the QR code.
 
-<img width="201" alt="Screenshot 2024-03-25 at 5 41 04 PM" src="https://github.com/brayway05/CS-450/assets/61756717/956fa2b2-e09b-4ad7-a2c4-e7ce5b9db311">
-<img width="231" alt="Screenshot 2024-03-25 at 5 41 14 PM" src="https://github.com/brayway05/CS-450/assets/61756717/95cc54de-4a6a-463c-a451-06601bc99eab">
+<img width="178" alt="Screenshot 2024-03-25 at 7 57 18 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/99c5a9a8-a516-43e5-94fb-1c3d5c5b614d">
+<img width="205" alt="Screenshot 2024-03-25 at 7 57 30 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/4f1e1ab5-c876-4c64-815f-95274a508d49">
 
 ^ Original QR code photos
   
-<img width="420" alt="Screenshot 2024-03-25 at 5 38 51 PM" src="https://github.com/brayway05/CS-450/assets/61756717/70c81737-20de-4461-b84f-abdd2aefaabe">
-<img width="425" alt="Screenshot 2024-03-25 at 5 39 11 PM" src="https://github.com/brayway05/CS-450/assets/61756717/d698c737-1b8e-425e-b802-7b22529ab8d0">
+<img width="378" alt="Screenshot 2024-03-25 at 7 57 46 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/c41acff1-67e7-4d3e-92c5-5d4f3cb5b642">
+<img width="379" alt="Screenshot 2024-03-25 at 7 57 58 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/44e83817-1d66-44c4-ba4e-36ed8bc3d2ae">
 
 ^ Finding 3 corners
 
-<img width="409" alt="Screenshot 2024-03-25 at 5 39 48 PM" src="https://github.com/brayway05/CS-450/assets/61756717/d544e7ff-3590-4590-85cc-345a8ecd6890">
-<img width="425" alt="Screenshot 2024-03-25 at 5 40 44 PM" src="https://github.com/brayway05/CS-450/assets/61756717/76cc1c1e-a7f6-421e-8a8c-8de706c98bad">
+<img width="369" alt="Screenshot 2024-03-25 at 7 58 09 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/adb7ec6d-4351-4228-96e0-c903719f3c4d">
+<img width="367" alt="Screenshot 2024-03-25 at 7 58 21 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/2e9fb44c-fd70-4add-88ed-9deda200070b">
 
 ^ Final result before decoding: Finding 4th corner and computed homography
 
