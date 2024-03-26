@@ -2,13 +2,13 @@
 
 ### Project 4: Unet for Cancer Detection
 Used the “Deep Convolution U-Net” from this paper: [(U-Net: Convolutional Networks for Biomedical Image Segmentation)](https://arxiv.org/pdf/1505.04597.pdf)
-<img width="858" alt="Screenshot 2024-03-25 at 6 15 04 PM" src="https://github.com/brayway05/CS-474/assets/61756717/a0695b02-b9b7-4f29-8499-8ed5e9cc8c30">
+<img width="772" alt="Screenshot 2024-03-25 at 7 59 03 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/8c537bd0-0ebc-4979-8a66-4b0611905867">
 
-<img width="451" alt="Screenshot 2024-03-25 at 6 15 24 PM" src="https://github.com/brayway05/CS-474/assets/61756717/12ab50b7-8e68-4bd2-8dcb-e0d370b15572">
+<img width="404" alt="Screenshot 2024-03-25 at 7 59 20 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/6fbd8314-dd3b-4742-b897-596a1c53b913">
 
 ^ Train and Test Accuracies
 
-<img width="632" alt="Screenshot 2024-03-25 at 6 15 51 PM" src="https://github.com/brayway05/CS-474/assets/61756717/22f4f734-3069-4568-9e9c-3d92f83c9a9e">
+<img width="499" alt="Screenshot 2024-03-25 at 7 59 38 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/29438baf-1aaf-41cc-82f9-5b0f65d98438">
 
 ^ Segmented cancer images
 
@@ -17,9 +17,9 @@ Used the “Deep Convolution U-Net” from this paper: [(U-Net: Convolutional Ne
 
 Takes a content image, style image, and an input image - which is a copy of the content image - and adds the style to the input image with a DNN.
 
-<img width="374" alt="Screenshot 2024-03-25 at 6 18 11 PM" src="https://github.com/brayway05/CS-474/assets/61756717/75c45abe-3a1e-4d1f-b6a4-34f8bda5555e">
-<img width="374" alt="Screenshot 2024-03-25 at 6 18 20 PM" src="https://github.com/brayway05/CS-474/assets/61756717/fd456e0a-808d-4c77-8893-16b33a0e4c63">
-<img width="378" alt="Screenshot 2024-03-25 at 6 18 28 PM" src="https://github.com/brayway05/CS-474/assets/61756717/d5cf8f2d-9bf2-4c71-a63c-515c7f7cc088">
+<img width="297" alt="Screenshot 2024-03-25 at 7 59 50 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/6cd99c37-1df6-422e-a76b-099c28427aa8">
+<img width="299" alt="Screenshot 2024-03-25 at 8 00 01 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/1dd6f266-27e3-44f7-8e3b-b76bea3140e9">
+<img width="299" alt="Screenshot 2024-03-25 at 8 00 13 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/847fd8b5-5033-4e93-8a86-58432f90aec7">
 
 ### Project 7: Transformer for Machine Translation
 
@@ -31,9 +31,9 @@ http://jalammar.github.io/illustrated-transformer/
 
 https://github.com/jadore801120/attention-is-all-you-need-pytorch/blob/master/transformer/
 
-<img width="679" alt="Screenshot 2024-03-25 at 6 23 53 PM" src="https://github.com/brayway05/CS-474/assets/61756717/b427814c-a7bd-4d53-a774-f3a37861b924">
-<img width="665" alt="Screenshot 2024-03-25 at 6 24 02 PM" src="https://github.com/brayway05/CS-474/assets/61756717/7e04dedf-732d-411b-9f03-3f19dfe5a7b0">
-<img width="814" alt="Screenshot 2024-03-25 at 6 24 32 PM" src="https://github.com/brayway05/CS-474/assets/61756717/ee8dfd8d-843f-448f-be8e-0dd1a3bb3c3c">
+<img width="542" alt="Screenshot 2024-03-25 at 8 00 31 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/67cc48e6-a0f9-484e-afd5-cd661480c16c">
+<img width="531" alt="Screenshot 2024-03-25 at 8 00 44 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/43db373e-275e-47f6-a8da-a9a719869b09">
+<img width="651" alt="Screenshot 2024-03-25 at 8 01 24 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/98c07701-4194-4406-acad-836241bda08f">
 
 ^ Randomly picked Spanish to English translations
 
@@ -42,14 +42,14 @@ Denoising Diffusion Probabilistic Models: https://arxiv.org/abs/2006.11239
 
 Improved Denoising Diffusion Probabilistic Models: https://arxiv.org/abs/2102.09672
 
-<img width="491" alt="Screenshot 2024-03-25 at 6 26 22 PM" src="https://github.com/brayway05/CS-474/assets/61756717/37e977b6-d41c-4628-811b-1874549fcc36">
+<img width="443" alt="Screenshot 2024-03-25 at 8 01 44 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/9d939d2c-c240-4db6-b3f6-4fb9561686de">
 
 ^ Linear and Cosine schedulers
 
-<img width="409" alt="Screenshot 2024-03-25 at 6 26 55 PM" src="https://github.com/brayway05/CS-474/assets/61756717/7ba6c518-5aa4-4944-8efa-17bcf574177f">
+<img width="370" alt="Screenshot 2024-03-25 at 8 02 00 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/3f847ab2-6bbf-4cde-96bd-b0183d88e917">
 
 ^ Training loss
 
-<img width="598" alt="Screenshot 2024-03-25 at 6 26 48 PM" src="https://github.com/brayway05/CS-474/assets/61756717/a15715dc-4551-4e78-ab26-3540c4a8347b">
+<img width="537" alt="Screenshot 2024-03-25 at 8 02 12 PM" src="https://github.com/brayway05/Project-Links/assets/61756717/b272253a-bc7d-4657-be01-fbf997e39082">
 
 ^ Results
