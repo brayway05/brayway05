@@ -16,7 +16,7 @@ Computer Vision class at BYU where we learned about the basics of the first type
 - Object detection and classifcation pre-CNN's
 - CNN's
 
-### CS 474 - Deep learning - Projects
+### [CS 474 - Deep learning - Projects](Deep-Learning-Projects.md)
 - CNNs
 - U-Nets
 - Style Transfer
