@@ -1,4 +1,13 @@
-# Projects
+# My name is Brayden Christensen!
+
+- Machine Learning Student @ BYU with a Mathematics Minor.
+- Marketing Data Science Intern @ Pattern in Lehi, Utah.
+- Part-time Full Stack Developer for the Church of Jesus Christ of Latter Day Saints.
+- Currently learning DevOp continuous development technologies like Terraform with AWS IAM, Github actions, and Docker.
+
+### [See my personal portfolio website with project demos](braydenwc.com)
+
+# More Projects
 
 ### Nintendo 64 fake cartridge detection model
 - Uses the image classifier from `vit-base-patch16-224`
