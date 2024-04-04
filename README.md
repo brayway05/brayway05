@@ -2,7 +2,7 @@
 
 - Machine Learning Student @ BYU with a Mathematics Minor.
 - Marketing Data Science Intern @ Pattern in Lehi, Utah.
-- Part-time Full Stack Developer @ Church of Jesus Christ of Latter Day Saints.
+- Part-time Full Stack Developer @ The Church of Jesus Christ of Latter Day Saints.
 - Currently learning DevOp continuous development technologies like Terraform with AWS IAM, Github actions, and Docker.
 
 ### [See my personal portfolio website with project demos](braydenwc.com)
