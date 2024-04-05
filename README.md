@@ -35,6 +35,3 @@ Computer Vision class at BYU where we learned about the basics of the first type
 - GANs/Probabilistic Generative Models
 - Stable Diffusion
 - ResNets
-
-### Marketing Data Science Internship - Projects
-- The code I wrote is propietary but I will show as many grahps, plots, and visualizations as I can.
