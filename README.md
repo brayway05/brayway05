@@ -15,7 +15,7 @@
 - Can use API for CURL, Python, or JS on huggingface website
 https://huggingface.co/Braywayc/autotrain-n-64-image-classifier-99356147309
 
-### [CS 450 - Computer Vision - Projects](Computer-Vision-Projects.md)
+### [CS 450 - Computer Vision - Demos/Code](Computer-Vision-Projects.md)
 Computer Vision class at BYU where we learned about the basics of the first types image processing algorithms before deep learning took over the computer vision field.
 - Image preprocessing
 - Edge, corner, and shape detection
@@ -25,7 +25,7 @@ Computer Vision class at BYU where we learned about the basics of the first type
 - Object detection and classifcation pre-CNN's
 - CNN's
 
-### [CS 474 - Deep learning - Projects](Deep-Learning-Projects.md)
+### [CS 474 - Deep learning - Demos/Code](Deep-Learning-Projects.md)
 - CNNs
 - U-Nets
 - Style Transfer
