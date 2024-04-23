@@ -5,7 +5,7 @@
 - Part-time Full Stack Developer @ The Church of Jesus Christ of Latter Day Saints.
 - Currently learning DevOp continuous development technologies like Terraform with AWS IAM, Github actions, and Docker.
 
-### [See my personal portfolio website with project demos](braydenwc.com)
+### [See my personal portfolio website with project demos](https://www.braydenwc.com/)
 
 # More Projects
 
