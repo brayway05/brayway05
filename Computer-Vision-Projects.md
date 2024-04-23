@@ -70,3 +70,23 @@
 `Decoded QR code 2: http://byu.edu`
 
 ### Project 5: Deep-Learning Object Recognition
+- Fine-tuning ResNet18 for car model detection
+- Used torchvision to flip train images to expand dataset
+- Created custom Dataset class for stanford cars dataset
+
+
+![image](https://github.com/brayway05/brayway05/assets/61756717/e6d1bde2-0059-4401-bf3c-b558d8b14bd0)
+
+^ Batch size of 32 car images
+
+![image](https://github.com/brayway05/brayway05/assets/61756717/c7aa5ac5-f6c9-4d5e-8835-e8e23f139989)
+
+^ Train loss and accuracy (5 epochs overfit)
+
+![image](https://github.com/brayway05/brayway05/assets/61756717/bf61aa1f-1c58-47b9-8f50-344b62dbf65f)
+
+^ Train loss and accuracy (1 epoch with data augmentation)
+
+![image](https://github.com/brayway05/brayway05/assets/61756717/b5d3b00e-f3b2-4422-808b-31728118ab21)
+
+^ Confusion Matrix of test predictions (196 classes)
