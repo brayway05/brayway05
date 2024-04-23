@@ -35,3 +35,5 @@ Computer Vision class at BYU where we learned about the basics of the first type
 - GANs/Probabilistic Generative Models
 - Stable Diffusion
 - ResNets
+- Reinforcement Learning (Q-learning and PPO)
+- Final Project: CNN and Audio Spectrogram Transformer for language classification
