@@ -4,7 +4,7 @@
 - Marketing Data Science Intern @ Pattern in Lehi, Utah
 - Part-time Full Stack Developer @ The Church of Jesus Christ of Latter Day Saints
 
-### [See my personal portfolio website with project demos](https://portfolio.braydenwc.com/)
+### [portfolio website](https://portfolio.braydenwc.com/)
 
 # Personal Projects
 
