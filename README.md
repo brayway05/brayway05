@@ -1,6 +1,6 @@
 # My name is Brayden Christensen!
 
-- Machine Learning Student @ BYU
+- Bachelors in CS:Machine Learning @ BYU
 - Marketing Data Science Intern @ Pattern in Lehi, Utah
 - Part-time Full Stack Developer @ The Church of Jesus Christ of Latter Day Saints
 
