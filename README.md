@@ -18,3 +18,5 @@ https://huggingface.co/Braywayc/autotrain-n-64-image-classifier-99356147309
 
 - [CS 450 - Computer Vision - Demos/Code](Computer-Vision-Projects.md)
 - [CS 474 - Deep learning - Demos/Code](Deep-Learning-Projects.md)
+
+Below are some of the most recent personal projects that I have use to teaching myself new programming concepts, frameworks and languages.
