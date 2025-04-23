@@ -2,9 +2,9 @@
 
 - 🏫 Bachelors in CS - Machine Learning @ BYU
 - 💻 Software Engineer @ Bricks and Minifigs
-- 📁 [Portfolio Website](https://portfolio.braydenwc.com/)
+- 📁 [Portfolio Website](https://dev.braydenwc.com/)
 
-I have years of work experience using Python, SQL, React and ExpressJS. I enjoy learning and using new web programming frameworks like FastAPI, Streamlit and React. Most of all, I love leveraging data science and machine learning to explore insights and trends in real-world data. I love to build things and am the most satisfied with my work when I learn that there is a "better" way to do code something whether it's optimzing code performance or writing cleaner and understandle code. 
+I have years of work experience using Python, SQL, React and Ruby on Rails. I enjoy learning and using new web programming frameworks like FastAPI, Streamlit and React. Most of all, I love leveraging data science and machine learning to explore insights and trends in real-world data. I love to build things and am the most satisfied with my work when I learn that there is a "better" way to do code something whether it's optimzing code performance or writing cleaner and understandle code. 
 
 # Personal Projects
 
