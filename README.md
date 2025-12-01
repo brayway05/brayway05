@@ -6,14 +6,23 @@
 - 📁 [Portfolio Website](https://dev.braydenwc.com/)
 
 Typescript
+
 Ruby on Rails
+
 SQL
+
 React
+
 Python
+
 Networking
+
 AWS
+
 Datadog
+
 N8N
+
 
 # Personal Projects
 
