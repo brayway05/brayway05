@@ -5,24 +5,17 @@
 - 🏫 MS in CS - Georgia Institue of Technology (in progress)
 - 📁 [Portfolio Website](https://dev.braydenwc.com/)
 
-Typescript
+## Languages & Tools
 
-Ruby on Rails
-
-SQL
-
-React
-
-Python
-
-Networking
-
-AWS
-
-Datadog
-
-N8N
-
+- Typescript
+- Ruby on Rails
+- SQL
+- React
+- Python
+- Networking
+- AWS
+- Datadog
+- N8N
 
 # Personal Projects
 
