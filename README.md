@@ -1,10 +1,19 @@
 # My name is Brayden Christensen!
 
-- 🏫 Bachelors in CS - Machine Learning @ BYU
-- 💻 Software Engineer @ Bricks and Minifigs
+- 💻 Software Engineer @ Pattern
+- 🏫 BS in CS - Machine Learning @ BYU
+- 🏫 MS in CS - Georgia Institue of Technology (in progress)
 - 📁 [Portfolio Website](https://dev.braydenwc.com/)
 
-I have years of work experience using Python, SQL, React and Ruby on Rails. I enjoy learning and using new web programming frameworks like FastAPI, Streamlit and React. Most of all, I love leveraging data science and machine learning to explore insights and trends in real-world data. I love to build things and am the most satisfied with my work when I learn that there is a "better" way to do code something whether it's optimzing code performance or writing cleaner and understandle code. 
+Typescript
+Ruby on Rails
+SQL
+React
+Python
+Networking
+AWS
+Datadog
+N8N
 
 # Personal Projects
 
