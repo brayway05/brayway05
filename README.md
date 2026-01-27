@@ -1,4 +1,4 @@
-# My name is Brayden Christensen!
+# Me
 
 - 💻 Software Engineer @ Pattern
 - 🏫 BS in CS - Machine Learning @ BYU
